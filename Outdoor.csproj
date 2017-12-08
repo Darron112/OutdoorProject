@@ -227,6 +227,10 @@
   <ItemGroup>
     <Compile Include="Assets\1Outdoor\Scripts\HideCursor.cs" />
     <Compile Include="Assets\1Outdoor\Scripts\PlayerControl.cs" />
+    <Compile Include="Assets\1Outdoor\Scripts\PlayerWater.cs" />
+    <Compile Include="Assets\1Outdoor\Scripts\SplitScreen.cs" />
+    <Compile Include="Assets\1Outdoor\Scripts\waterEffect.cs" />
+    <Compile Include="Assets\1Outdoor\Scripts\waterTrigger.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\PauseMenu.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\SceneAndURLLoader.cs" />
