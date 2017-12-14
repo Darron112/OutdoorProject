@@ -241,6 +241,7 @@
     <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Mega Fantasy Props Pack\README.txt" />
     <None Include="Assets\NatureStarterKit2\info.txt" />
     <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
     <None Include="Assets\Standard Assets\Cameras\CameraGuidelines.txt" />
